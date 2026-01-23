@@ -1,0 +1,12 @@
+frase = 'Curso em Video Python'
+##print(frase[:13])
+##print(frase[::2])
+##print('''Nessa aula, vamos aprender operações com String no Python. As principais operações que vamos aprender são o Fatiamento de String, Análise com len(), count(), find(), transformações com replace(), upper(), lower(), capitalize(), title(), strip(), junção com join().''')
+##print(frase.count('o'))
+##print(frase.upper().count('O'))
+##print(len(frase.strip()))
+##print(frase.replace('Python', 'JavaScript'))
+##print('Curso' in frase)
+##print(frase.split())
+dividido = frase.split()
+print(dividido[2][3])

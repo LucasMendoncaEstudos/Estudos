@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+header{
+    background-color: yellow;
+    height: 100px;
+}
+nav{
+    background-color: rgb(175, 175, 231);
+    position: absolute;
+    width: 140px;
+}
+a:hover{
+    display: block;
+    color: white;
+    background-color: red;
+    width: 90px;
+}
+nav li{
+    list-style: none;
+}
+article{
+    background-color: green;
+    position: relative;
+    height: 700px;
+    width: 600px;
+    left: 150px;
+}
+footer{
+    background-color: azure;
+}
+body{
+    position: relative;
+    width: 750px;
+    left: 70px;
+    background-color: lightgray;
+}

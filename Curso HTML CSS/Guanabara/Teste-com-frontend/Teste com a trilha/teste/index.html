@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <h1>Formulários</h1>
+    <form action="envio.php" method="post">
+        <table>
+        <tr>
+        <td><label for="nome">Nome:* </label></td>
+        <td><input type="text" name="nome" id="nome"
+            placeholder="Digite seu Nome ..." required="required"></td>
+        </tr><tr>
+        <td><label for="email">E-mail:</label></td>
+        <td><input type="email" name="email" id="email"></td>
+        </tr><tr>
+        <td><label for="cep">CEP:</label></td>
+        <td><input type="number" name="cep" id="cep"></td>
+        </tr><tr>
+        <td><label for="data">Data de Nascimento:</label></td>
+        <td><input type="date" name="data" id="data"></td>
+        </tr><tr>
+        <td><label for="senha">Senha:</label></td>
+        <td><input type="password" name="senha" id="senha"></td>
+        </tr><tr>
+        <td><label for="senha">Confirme sua senha:</label></td>
+        <td>><input type="password" name="senha" id="senha"></td>
+        </tr><tr>
+        <td><label>Deixe sua Mensagem</label></td>
+        <td><textarea></textarea></td>
+        </tr><tr>
+            <td><label>Documento</label></td>
+            <td><input type="radio" name="cpf" id="cpf">CNPJ</td>
+            <td><input type="radio" name="cpf" id="cpf">CPF</td>
+        </tr><tr>
+            <td><label>Parêntes</label></td>
+            <td><input type="checkbox" name="filho" id="filho">Filho</td>
+            <td><input type="checkbox" name="pai" id="pai">Pai</td>
+        </tr>
+        <select name="Estados" >
+            <option name="sp">São Paulo</option>
+            <option value="br">Brasília</option>
+            <option value="rj">Rio de Janeiro</option>
+
+        </select>
+        <td><input type="submit" name="envio" value="Enviar"></td>
+        <td><input type="reset" name="reset" id="Limpar Dados"></td>
+        
+
+    </table>
+    </form>
+</body>
+</html>

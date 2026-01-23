@@ -1,0 +1,23 @@
+'''melhorando a classe musica'''
+
+"""class Musica:
+    nome = ''
+    artista = ''
+    duracao = int"""
+
+class Musica:
+    def __init__(self, nome = '', artista = '', duracao = 0):
+        self.nome = nome
+        self.artista = artista
+        self.duracao = duracao
+    
+    def __str__(self):
+        return f'{self.nome} | {self.artista} | {self.duracao}'
+
+musica1 = Musica(nome='Under Pressure', artista='Queen & David Bowie', duracao=248)
+musica2 = Musica('The Trooper', 'Iron Maiden', 245)
+musica3 = Musica(nome='Hotel California', artista='Eagles', duracao=390)
+
+print(musica1)
+print(musica2)
+print(musica3)
