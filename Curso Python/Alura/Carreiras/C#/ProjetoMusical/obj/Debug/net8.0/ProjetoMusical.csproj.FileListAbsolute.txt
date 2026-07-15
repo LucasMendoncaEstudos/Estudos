@@ -1,0 +1,15 @@
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.exe
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.deps.json
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.runtimeconfig.json
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.dll
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.pdb
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.GeneratedMSBuildEditorConfig.editorconfig
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.AssemblyInfoInputs.cache
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.AssemblyInfo.cs
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.csproj.CoreCompileInputs.cache
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.sourcelink.json
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.dll
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\obj\Debug\net8.0\refint\ProjetoMusical.dll
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.pdb
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.genruntimeconfig.cache
+T:\Github\Curso Python\Alura\Carreiras\C#\ProjetoMusical\obj\Debug\net8.0\ref\ProjetoMusical.dll
