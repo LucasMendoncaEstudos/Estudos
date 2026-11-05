@@ -1,4 +1,6 @@
-# testando cores em python
-x = 'curso de python no cursoemvideo'
-print(x[:5])
+# testando tuplas em python
 
+
+lanche = ('hamburguer', 'suco', 'pizza', 'pudim', 'batata frita')
+
+print(lanche[1])  # suco

@@ -8,9 +8,9 @@ times = ('Palmeiras', 'Fluminense', 'Flamengo', 'Corinthians', 'Internacional', 
 
 
 print(f'Os 5 primeiros são : {times[:5]}')
-
-print(f'Os 4 Ultimos colcados são {times[-4:]}')
-
+print('-=' * 15)
+print(f'Os 4 últimos colocados são {times[-4:]}')
+print('-=' * 15)
 print(f'A lista de times em ordem alfabética é {sorted(times)}')
-
+print('-=' * 15)
 print(f'O time do flamengo esta na posição {times.index('Flamengo') + 1}')

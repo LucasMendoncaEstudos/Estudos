@@ -5,6 +5,6 @@ from traceback import print_tb
 maior = 0
 menor = 0
 n = (randint(1,10),randint(1,10),randint(1,10),randint(1,10),randint(1,10))
-print(f'Eu sorteei os valores {n}')
+print(f'Eu sortiei os valores {n}')
 print(f'O maior número sorteado foi {max(n)}')
 print(f'O menor número sorteado foi {min(n)}')
